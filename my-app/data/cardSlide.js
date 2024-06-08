@@ -1,0 +1,96 @@
+export const cardSilderData = [
+  {
+    title: "Featured Products",
+    items: [
+      {
+        id: 1,
+        title: "Micro 1",
+        image: "/my-app/public/M1.jpg",
+        description: "This is card 1",
+        price: "100",
+      },
+      {
+        id: 2,
+        title: "Micro 2",
+        image: "/my-app/public/M2.jpg",
+        description: "This is card 2",
+        price: "200",
+      },
+      {
+        id: 3,
+        title: "Micro 3",
+        image: "/my-app/public/M1.jpg",
+        description: "This is card 3",
+        price: "300",
+      },
+      {
+        id: 4,
+        title: "Micro 4",
+        image: "/my-app/public/M2.jpg",
+        description: "This is card 4",
+        price: "400",
+      },
+      {
+        id: 5,
+        title: "Micro 5",
+        image: "/my-app/public/M1.jpg",
+        description: "This is card 5",
+        price: "500",
+      },
+      {
+        id: 6,
+        title: "Micro 6",
+        image: "/my-app/public/M2.jpg",
+        description: "This is card 6",
+        price: "600",
+      },
+    ],
+  },
+  {
+    title: "Standard Edition",
+    items: [
+      {
+        id: 1,
+        title: "Microwave 1",
+        image: "/my-app/public/M3.jpg",
+        description: "This is book 1",
+        price: "100",
+      },
+      {
+        id: 2,
+        title: "Microwave 2",
+        image: "/my-app/public/M3.jpeg",
+        description: "This is book 2",
+        price: "200",
+      },
+      {
+        id: 3,
+        title: "Microwave 3",
+        image: "/my-app/public/M3.jpg",
+        description: "This is book 3",
+        price: "300",
+      },
+      {
+        id: 4,
+        title: "Microwave 4",
+        image: "/my-app/public/M3.jpeg",
+        description: "This is book 4",
+        price: "400",
+      },
+      {
+        id: 5,
+        title: "Microwave 5",
+        image: "/my-app/public/M3.jpg",
+        description: "This is book 5",
+        price: "500",
+      },
+      {
+        id: 6,
+        title: "Microwave 6",
+        image: "/my-app/public/M3.jpeg",
+        description: "This is book 6",
+        price: "600",
+      },
+    ],
+  },
+];
